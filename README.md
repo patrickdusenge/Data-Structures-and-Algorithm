@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithm
-Javascript Data Structures and Algorithm - FreeeCodeCamp
+Javascript Data Structures and Algorithm - FreeCodeCamp
